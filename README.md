@@ -1,4 +1,4 @@
-# CAS.ai Updated Sep 25, 2025
+# CAS.ai Updated Oct 07, 2025
 OwnerDomain=cas.ai
 cas.ai, 922e6092, DIRECT
 #=== GoogleAds Jul 25, 2025
